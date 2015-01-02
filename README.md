@@ -15,3 +15,5 @@ Parts:
 * BD139 transistor
 * LM7833 Voltage regulator
 
+![Schema](schema.png)
+![Example](img.jpg)
